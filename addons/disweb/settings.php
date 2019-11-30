@@ -30,7 +30,7 @@ if(empty($disweb_table)) {
 
 $server = "";
 $channel = "";
-$shard = "https://disweb.deploys.io";
+$shard = "https://disweb.dashflo.net";
 
 $success = false;
 
