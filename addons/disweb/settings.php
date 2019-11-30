@@ -45,7 +45,7 @@ if(Input::exists()) {
                 'max' => 18
             ),
             'shard' => array(
-                'max' => 25
+                'max' => 225
             )
         ));
 
